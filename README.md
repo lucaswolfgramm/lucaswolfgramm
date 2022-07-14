@@ -35,4 +35,4 @@
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
-![Snake animation](https://github.com/jessebauer/jessebauer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucaswolfgramm/lucaswolfgramm/blob/output/github-contribution-grid-snake.svg)
