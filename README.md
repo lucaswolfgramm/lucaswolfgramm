@@ -8,6 +8,9 @@
 ## Você pode me encontrar aqui:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaswolfgramm/)
+<a href="https://lucaswolfgramm.github.io/">
+	<img src="https://cdn-icons-png.flaticon.com/128/3476/3476457.png" alt="Portfolio" title="Portfolio" width="64" height="64">
+</a>
 
 ## Meus dados:
  
